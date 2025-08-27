@@ -2,7 +2,7 @@
 
 ## Python Environment Setup Guide
 
-It is recommended to manage your Python environemnts using [uv](https://docs.astral.sh/uv/)
+It is recommended to manage your Python environments using [uv](https://docs.astral.sh/uv/)
 
 > Refer to the official installation [guide](https://docs.astral.sh/uv/getting-started/installation/)
 
